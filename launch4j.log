@@ -1,0 +1,21 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\HAMZA\Documents\cours\SMA_Imane_DBIBIH\SimClassWithJADE\SimClassWithJADE\MonApplication.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HAMZA\Documents\cours\SMA_Imane_DBIBIH\SimClassWithJADE\SimClassWithJADE\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000_027
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;c:\page;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Git\cmd;C:\Users\HAMZA\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;;C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot;C:\xampp\mysql\bin;C:\Users\HAMZA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;c:\page;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Git\cmd;C:\Users\HAMZA\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3\bin;;C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot;C:\xampp\mysql\bin;C:\Users\HAMZA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot\bin\javaw.exe (OK)
+Version string: 1.011.000_027 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-11.0.27.6-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HAMZA\Documents\cours\SMA_Imane_DBIBIH\SimClassWithJADE\SimClassWithJADE\MonApplication.exe"
+Args length:	107/32768 chars
+Exit code:	0
